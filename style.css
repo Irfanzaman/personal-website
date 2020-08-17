@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.name-highlight{
+    color: rgb(248, 62, 99);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    }
+.half-width img{
+    width: 100%;
+}
+.top-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+           
+    }
+section{
+    height: 300px;
+    padding-bottom: 150px;
+
+}
+p{
+    color:dimgray;
+    font-size:small;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgb(236, 118, 142),rgb(248, 62, 99) );
+    padding: 6px 20px;
+    border-radius: 5px;
+    color: white;
+ }
+
+ .biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+           
+    }
+    .onethird-width img{
+        width: 26%;
+        float: left;
+        margin: 2%;
+        padding-left: 2%;
+        
+    }
+    .latest-work{
+        background-image: url("images/latest-work-bg.png");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 100%;
+        
+    }
+    h2{
+        text-align: center;
+    }
+    .client-opinion{
+        text-align: center;
+        font-weight: bold;
+        color: black;
+    }
+    .comment{
+        text-align: center;
+        padding-left: 20%;
+        padding-right: 20%;
+        color: black;
+    }
+
+    .message-area {
+    box-shadow: 10px 10px 40px white;
+    border-radius: 5px;
+    height: 30%;
+    width: 40%;
+    background-color: rgb(248, 62, 99);
+    color: white;
+    margin: 0 auto;
+    }
+
+#text-color{
+    color: white;
+    }
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
+.client-opinion {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+}
